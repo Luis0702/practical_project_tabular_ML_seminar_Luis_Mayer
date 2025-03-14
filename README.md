@@ -4,14 +4,12 @@ This repository contains all materials related to the seminar report **"Comparin
 
 ## 📂 Repository Contents
 
-This repository includes the following files:
+This repository includes the following file:
 
-- **`code_practical_project_ML_seminar_Luis_Mayer.ipynb`**  
-  A Jupyter Notebook containing the documented Python code used for the analysis.
+**`code_practical_project_ML_seminar_Luis_Mayer.ipynb`**  
+A Jupyter Notebook containing the documented Python code used for the analysis.
 
-- **`metadataset_clean.csv`**  
-  A CSV file containing metadata from the benchmarking study by **McElfresh et al. (2023)**:  
-  *"When do neural networks outperform boosted trees on tabular data?"*
+
 
 ## 📄 Related Resources
 
