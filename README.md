@@ -6,7 +6,7 @@ This repository contains all materials related to the seminar report **"Comparin
 
 This repository includes the following file:
 
-**`code_practical_project_ML_seminar_Luis_Mayer.ipynb`**  
+**`Code_Practical_Project_ML_Seminar_Luis_Mayer.ipynb`**  
 A Jupyter Notebook containing the documented Python code used for the analysis.
 
 
